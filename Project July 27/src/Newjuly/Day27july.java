@@ -9,6 +9,7 @@ public class Day27july {
 			}
 			public void display2() {
 				System.out.println("Automation is very easy");
+				System.out.println("Ankita done changes");
 			}
 			public static void main(String[] args) 
 			{				
